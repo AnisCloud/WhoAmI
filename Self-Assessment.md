@@ -11,8 +11,9 @@ __The following statements can help you determine the starting point of your car
 __If you have trouble answering the questions, go to the Personal kills inventorytable at the end of the questionnaire. After reviewing, it you might be surprised at how skillful you are!__
 
 __Use the Additional notessection at the end of this document for any extra information that you want to capture while you think about your career journey.__
-
-
+<br>
+![alt text](02_what-skills-to-put-on-a-cv-with-examples-and-tips.jpg)
+<br>
 __Some of the things I especially like to do are:__ 
 Traveling with family
 

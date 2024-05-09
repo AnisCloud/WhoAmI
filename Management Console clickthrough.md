@@ -1,3 +1,5 @@
+![alt text](<management consol Q.jpg>)
+
 # Activity answer key
 
 __Question #1__: Which service category is the IAMservice in?<br>–Answer: Security, Identity, and Compliance
